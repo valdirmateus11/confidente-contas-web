@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://confidentecontas.ao/sitemap.xml
